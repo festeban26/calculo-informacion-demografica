@@ -1,0 +1,23 @@
+{
+    "trabajadoresActivos": 53.00,
+    "trabajadoresJubilados": 0.00,
+    "trabajadoresJubiladosPendientes": 0.00,
+    "trabajadoresSalidos": 13.00,
+    "trabajadoresTipo1Hombres": 0.00,
+    "trabajadoresTipo1Mujeres": 0.00,
+    "trabajadoresTipo2Hombres": 0.00,
+    "trabajadoresTipo2Mujeres": 0.00,
+    "trabajadoresTipo3Hombres": 6.00,
+    "trabajadoresTipo3Mujeres": 6.00,
+    "trabajadoresTipo4Hombres": 27.00,
+    "trabajadoresTipo4Mujeres": 14.00,
+    "tsPromedioActivos": 5.86,
+    "tfPromedioActivos": 19.1433239058282644,
+    "edadPromedioActivos": 37.60,
+    "nominaTotalActivos": 53813.54,
+    "nominaTotalJubilados": 0.00,
+    "vidaLaboralPromedioRemanente": 8.88,
+    "ingresoMensualPromedioActivos": 1015.35,
+    "pensionMensualPromedioJubilados": 0.00,
+    "ingresoNomina": 722101.02
+}

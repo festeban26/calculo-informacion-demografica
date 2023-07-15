@@ -1,0 +1,1111 @@
+{
+  "numeroProceso": "114713",
+  "parametros": {
+    "fechaValoracion": "2022-12-31",
+    "fechaEstimacion": "2021-12-31"
+  },
+  "empresa": {
+    "estado": "N"
+  },
+  "hipotesiscompanyl": {
+    "decimoCuartoSueldo": 425
+  },
+  "empleados": [
+    {
+      "identificacion": "2450896945",
+      "fechaIngresoJubilacion": "2022-09-19",
+      "fechaNacimiento": "2001-02-06",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0705207470",
+      "fechaIngresoJubilacion": "2022-08-04",
+      "fechaNacimiento": "1983-10-10",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 218.24
+    },
+    {
+      "identificacion": "0706400355",
+      "fechaIngresoJubilacion": "2022-12-01",
+      "fechaNacimiento": "1999-02-11",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 584.19
+    },
+    {
+      "identificacion": "2400348203",
+      "fechaIngresoJubilacion": "2022-03-14",
+      "fechaNacimiento": "2002-04-09",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "2450094707",
+      "fechaIngresoJubilacion": "2022-02-21",
+      "fechaNacimiento": "1998-09-07",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0750507535",
+      "fechaIngresoJubilacion": "2022-01-04",
+      "fechaNacimiento": "2002-07-03",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 434.12
+    },
+    {
+      "identificacion": "0928555689",
+      "fechaIngresoJubilacion": "2022-03-07",
+      "fechaNacimiento": "1987-08-30",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 593.37
+    },
+    {
+      "identificacion": "0802107318",
+      "fechaIngresoJubilacion": "2022-12-12",
+      "fechaNacimiento": "1979-02-24",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 352.48
+    },
+    {
+      "identificacion": "0926856956",
+      "fechaIngresoJubilacion": "2022-06-24",
+      "fechaNacimiento": "1988-08-08",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 630
+    },
+    {
+      "identificacion": "0701138422",
+      "fechaIngresoJubilacion": "2022-12-22",
+      "fechaNacimiento": "1957-12-28",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 28.29
+    },
+    {
+      "identificacion": "0704387604",
+      "fechaIngresoJubilacion": "2022-12-14",
+      "fechaNacimiento": "1980-11-26",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 50.45
+    },
+    {
+      "identificacion": "0703450478",
+      "fechaIngresoJubilacion": "2022-12-14",
+      "fechaNacimiento": "1978-10-06",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 22.16
+    },
+    {
+      "identificacion": "2400167017",
+      "fechaIngresoJubilacion": "2022-01-17",
+      "fechaNacimiento": "1998-08-21",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "2450174657",
+      "fechaIngresoJubilacion": "2022-03-07",
+      "fechaNacimiento": "1996-09-04",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0502256407",
+      "fechaIngresoJubilacion": "2022-05-18",
+      "fechaNacimiento": "1976-08-03",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 573.35
+    },
+    {
+      "identificacion": "0804581106",
+      "fechaIngresoJubilacion": "2022-04-11",
+      "fechaNacimiento": "1999-01-18",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 723
+    },
+    {
+      "identificacion": "0705026375",
+      "fechaIngresoJubilacion": "2022-12-14",
+      "fechaNacimiento": "1985-05-11",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 51
+    },
+    {
+      "identificacion": "0801424292",
+      "fechaIngresoJubilacion": "2022-12-05",
+      "fechaNacimiento": "1969-07-30",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 500.75
+    },
+    {
+      "identificacion": "0750599722",
+      "fechaIngresoJubilacion": "2022-05-09",
+      "fechaNacimiento": "1995-05-05",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 794.75
+    },
+    {
+      "identificacion": "1201197322",
+      "fechaIngresoJubilacion": "2022-04-01",
+      "fechaNacimiento": "1962-09-04",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 350
+    },
+    {
+      "identificacion": "0706010469",
+      "fechaIngresoJubilacion": "2022-12-22",
+      "fechaNacimiento": "1999-12-23",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 25
+    },
+    {
+      "identificacion": "0705274702",
+      "fechaIngresoJubilacion": "2022-12-14",
+      "fechaNacimiento": "1980-02-29",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 22.16
+    },
+    {
+      "identificacion": "0706013679",
+      "fechaIngresoJubilacion": "2019-10-30",
+      "fechaNacimiento": "1997-10-03",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 510.21
+    },
+    {
+      "identificacion": "2400028755",
+      "fechaIngresoJubilacion": "2019-11-04",
+      "fechaNacimiento": "1991-10-02",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 720.97
+    },
+    {
+      "identificacion": "0917011983",
+      "fechaIngresoJubilacion": "2013-01-25",
+      "fechaNacimiento": "1977-06-15",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 1000
+    },
+    {
+      "identificacion": "2400140816",
+      "fechaIngresoJubilacion": "2020-03-24",
+      "fechaNacimiento": "1989-02-28",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 593.37
+    },
+    {
+      "identificacion": "0952154243",
+      "fechaIngresoJubilacion": "2021-04-07",
+      "fechaNacimiento": "1993-06-09",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 570.91
+    },
+    {
+      "identificacion": "0704829324",
+      "fechaIngresoJubilacion": "2014-05-06",
+      "fechaNacimiento": "1985-01-10",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 889.24
+    },
+    {
+      "identificacion": "0706038817",
+      "fechaIngresoJubilacion": "2015-05-15",
+      "fechaNacimiento": "1990-03-25",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 673.18
+    },
+    {
+      "identificacion": "1203116577",
+      "fechaIngresoJubilacion": "2011-12-01",
+      "fechaNacimiento": "1970-10-06",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 569.48
+    },
+    {
+      "identificacion": "0701885006",
+      "fechaIngresoJubilacion": "2018-02-05",
+      "fechaNacimiento": "1995-05-05",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "0702883679",
+      "fechaIngresoJubilacion": "2015-07-06",
+      "fechaNacimiento": "1976-04-20",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 178.56
+    },
+    {
+      "identificacion": "0924982960",
+      "fechaIngresoJubilacion": "2021-02-15",
+      "fechaNacimiento": "1985-02-19",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0706741741",
+      "fechaIngresoJubilacion": "2015-02-02",
+      "fechaNacimiento": "1996-01-08",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 565.34
+    },
+    {
+      "identificacion": "0702427485",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1965-11-11",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 348.32
+    },
+    {
+      "identificacion": "1711779726",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1970-10-02",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 480.29
+    },
+    {
+      "identificacion": "0925655086",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1992-12-18",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 357.38
+    },
+    {
+      "identificacion": "0925202681",
+      "fechaIngresoJubilacion": "2017-11-01",
+      "fechaNacimiento": "1984-06-01",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 459
+    },
+    {
+      "identificacion": "0703232082",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1975-10-05",
+      "tipo": 3,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 423.66
+    },
+    {
+      "identificacion": "0702494113",
+      "fechaIngresoJubilacion": "2013-01-01",
+      "fechaNacimiento": "1969-07-16",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "0801893801",
+      "fechaIngresoJubilacion": "2020-04-14",
+      "fechaNacimiento": "1974-11-21",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 587.4
+    },
+    {
+      "identificacion": "0702545633",
+      "fechaIngresoJubilacion": "2017-09-18",
+      "fechaNacimiento": "1963-11-27",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 281.47
+    },
+    {
+      "identificacion": "2400024523",
+      "fechaIngresoJubilacion": "2020-01-02",
+      "fechaNacimiento": "1988-10-27",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 460.8
+    },
+    {
+      "identificacion": "0924483639",
+      "fechaIngresoJubilacion": "2020-05-25",
+      "fechaNacimiento": "1983-09-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 632.33
+    },
+    {
+      "identificacion": "0705146405",
+      "fechaIngresoJubilacion": "2018-02-13",
+      "fechaNacimiento": "1989-06-06",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 334.91
+    },
+    {
+      "identificacion": "0703784181",
+      "fechaIngresoJubilacion": "2008-10-15",
+      "fechaNacimiento": "1976-05-12",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 629.26
+    },
+    {
+      "identificacion": "2400048852",
+      "fechaIngresoJubilacion": "2020-03-19",
+      "fechaNacimiento": "1996-10-22",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 561.17
+    },
+    {
+      "identificacion": "0705361210",
+      "fechaIngresoJubilacion": "2008-10-15",
+      "fechaNacimiento": "1988-02-04",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 501.03
+    },
+    {
+      "identificacion": "0702967605",
+      "fechaIngresoJubilacion": "2018-02-01",
+      "fechaNacimiento": "1985-05-05",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 364.13
+    },
+    {
+      "identificacion": "0952618999",
+      "fechaIngresoJubilacion": "2013-05-01",
+      "fechaNacimiento": "1988-07-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 537.83
+    },
+    {
+      "identificacion": "0955264536",
+      "fechaIngresoJubilacion": "2021-11-16",
+      "fechaNacimiento": "1995-05-17",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 455
+    },
+    {
+      "identificacion": "0705573111",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1997-11-27",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 197.6
+    },
+    {
+      "identificacion": "0703202481",
+      "fechaIngresoJubilacion": "2016-05-01",
+      "fechaNacimiento": "1974-08-05",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 497.9
+    },
+    {
+      "identificacion": "0703761759",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1978-06-10",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 213.71
+    },
+    {
+      "identificacion": "0700944051",
+      "fechaIngresoJubilacion": "2013-11-01",
+      "fechaNacimiento": "1963-01-29",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 340.45
+    },
+    {
+      "identificacion": "0604858738",
+      "fechaIngresoJubilacion": "2020-03-21",
+      "fechaNacimiento": "1987-06-18",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 455.29
+    },
+    {
+      "identificacion": "0604535484",
+      "fechaIngresoJubilacion": "2020-03-21",
+      "fechaNacimiento": "1986-02-13",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 505.98
+    },
+    {
+      "identificacion": "0924665821",
+      "fechaIngresoJubilacion": "2020-11-01",
+      "fechaNacimiento": "1984-07-07",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "0703663740",
+      "fechaIngresoJubilacion": "2014-07-01",
+      "fechaNacimiento": "1976-09-08",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 198.4
+    },
+    {
+      "identificacion": "0802531251",
+      "fechaIngresoJubilacion": "2016-08-15",
+      "fechaNacimiento": "1984-03-04",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 622.9
+    },
+    {
+      "identificacion": "0912106598",
+      "fechaIngresoJubilacion": "2014-05-01",
+      "fechaNacimiento": "1967-11-17",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 519.6
+    },
+    {
+      "identificacion": "1309734836",
+      "fechaIngresoJubilacion": "2010-04-01",
+      "fechaNacimiento": "1977-05-17",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 602.17
+    },
+    {
+      "identificacion": "0703927046",
+      "fechaIngresoJubilacion": "2013-02-14",
+      "fechaNacimiento": "1980-11-13",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 600
+    },
+    {
+      "identificacion": "0927968909",
+      "fechaIngresoJubilacion": "2021-11-16",
+      "fechaNacimiento": "2001-04-19",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 906.67
+    },
+    {
+      "identificacion": "0928121292",
+      "fechaIngresoJubilacion": "2021-11-16",
+      "fechaNacimiento": "2002-01-29",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 518.34
+    },
+    {
+      "identificacion": "0928121615",
+      "fechaIngresoJubilacion": "2019-12-23",
+      "fechaNacimiento": "1996-05-23",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 456.88
+    },
+    {
+      "identificacion": "2400266413",
+      "fechaIngresoJubilacion": "2020-03-31",
+      "fechaNacimiento": "1991-08-30",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "1207479146",
+      "fechaIngresoJubilacion": "2020-01-06",
+      "fechaNacimiento": "1980-05-24",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 449.09
+    },
+    {
+      "identificacion": "0917982530",
+      "fechaIngresoJubilacion": "2019-02-18",
+      "fechaNacimiento": "1977-02-07",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 712.28
+    },
+    {
+      "identificacion": "0913761375",
+      "fechaIngresoJubilacion": "2014-11-18",
+      "fechaNacimiento": "1971-07-29",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 559.68
+    },
+    {
+      "identificacion": "0102322013",
+      "fechaIngresoJubilacion": "2018-01-10",
+      "fechaNacimiento": "1985-07-15",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 246.32
+    },
+    {
+      "identificacion": "0707334496",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "2001-10-15",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 350.08
+    },
+    {
+      "identificacion": "0702238684",
+      "fechaIngresoJubilacion": "2012-05-01",
+      "fechaNacimiento": "1967-12-29",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 500.27
+    },
+    {
+      "identificacion": "2400295362",
+      "fechaIngresoJubilacion": "2020-05-12",
+      "fechaNacimiento": "1993-11-29",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 326.72
+    },
+    {
+      "identificacion": "0929010932",
+      "fechaIngresoJubilacion": "2019-12-23",
+      "fechaNacimiento": "1996-03-07",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 751.28
+    },
+    {
+      "identificacion": "0704134444",
+      "fechaIngresoJubilacion": "2011-09-01",
+      "fechaNacimiento": "1980-07-21",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 534.35
+    },
+    {
+      "identificacion": "0923675748",
+      "fechaIngresoJubilacion": "2020-03-19",
+      "fechaNacimiento": "1984-08-11",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 572.17
+    },
+    {
+      "identificacion": "2400047821",
+      "fechaIngresoJubilacion": "2019-12-23",
+      "fechaNacimiento": "1989-10-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 555.34
+    },
+    {
+      "identificacion": "2450230723",
+      "fechaIngresoJubilacion": "2021-11-16",
+      "fechaNacimiento": "1996-09-30",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 959.17
+    },
+    {
+      "identificacion": "2450173428",
+      "fechaIngresoJubilacion": "2020-01-02",
+      "fechaNacimiento": "1997-09-19",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 501.85
+    },
+    {
+      "identificacion": "0923434278",
+      "fechaIngresoJubilacion": "2020-01-02",
+      "fechaNacimiento": "1989-01-24",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 590.1
+    },
+    {
+      "identificacion": "0706568201",
+      "fechaIngresoJubilacion": "2019-09-17",
+      "fechaNacimiento": "1995-04-04",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 217.87
+    },
+    {
+      "identificacion": "0701096687",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1956-01-04",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 200.4
+    },
+    {
+      "identificacion": "0704208222",
+      "fechaIngresoJubilacion": "2017-09-12",
+      "fechaNacimiento": "1980-07-18",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 614.58
+    },
+    {
+      "identificacion": "0704229509",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1985-01-20",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 186.87
+    },
+    {
+      "identificacion": "0803484062",
+      "fechaIngresoJubilacion": "2021-07-01",
+      "fechaNacimiento": "1999-04-26",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 503.96
+    },
+    {
+      "identificacion": "0927513218",
+      "fechaIngresoJubilacion": "2020-03-19",
+      "fechaNacimiento": "1986-06-13",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 696.21
+    },
+    {
+      "identificacion": "0925948747",
+      "fechaIngresoJubilacion": "2020-03-19",
+      "fechaNacimiento": "1987-03-13",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 572.17
+    },
+    {
+      "identificacion": "0702613290",
+      "fechaIngresoJubilacion": "2014-01-01",
+      "fechaNacimiento": "1970-03-17",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 630.48
+    },
+    {
+      "identificacion": "1708186786",
+      "fechaIngresoJubilacion": "2008-10-15",
+      "fechaNacimiento": "1965-02-25",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 732.41
+    },
+    {
+      "identificacion": "0704903749",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "1983-08-18",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 186.2
+    },
+    {
+      "identificacion": "0702991357",
+      "fechaIngresoJubilacion": "2010-11-01",
+      "fechaNacimiento": "1971-06-19",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 731.07
+    },
+    {
+      "identificacion": "0928121854",
+      "fechaIngresoJubilacion": "2019-10-24",
+      "fechaNacimiento": "1994-11-08",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "0928121839",
+      "fechaIngresoJubilacion": "2019-06-04",
+      "fechaNacimiento": "1996-09-29",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "2400057416",
+      "fechaIngresoJubilacion": "2019-05-21",
+      "fechaNacimiento": "1990-03-21",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 633.92
+    },
+    {
+      "identificacion": "0703184762",
+      "fechaIngresoJubilacion": "2013-01-01",
+      "fechaNacimiento": "1979-06-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 540
+    },
+    {
+      "identificacion": "0912960945",
+      "fechaIngresoJubilacion": "2013-04-01",
+      "fechaNacimiento": "1969-05-06",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 873.01
+    },
+    {
+      "identificacion": "0802722314",
+      "fechaIngresoJubilacion": "2012-02-01",
+      "fechaNacimiento": "1985-05-30",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 815.4
+    },
+    {
+      "identificacion": "0704018282",
+      "fechaIngresoJubilacion": "2010-05-25",
+      "fechaNacimiento": "1979-12-06",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 300
+    },
+    {
+      "identificacion": "0750031528",
+      "fechaIngresoJubilacion": "2019-05-08",
+      "fechaNacimiento": "2000-08-13",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 303.61
+    },
+    {
+      "identificacion": "0703277996",
+      "fechaIngresoJubilacion": "2010-04-01",
+      "fechaNacimiento": "1975-12-30",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 520.3
+    },
+    {
+      "identificacion": "0704883891",
+      "fechaIngresoJubilacion": "2020-06-01",
+      "fechaNacimiento": "1985-06-20",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 1265.03
+    },
+    {
+      "identificacion": "2450172222",
+      "fechaIngresoJubilacion": "2021-02-15",
+      "fechaNacimiento": "1993-05-23",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0705210516",
+      "fechaIngresoJubilacion": "2017-09-19",
+      "fechaNacimiento": "1989-10-15",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 198.4
+    },
+    {
+      "identificacion": "0802293381",
+      "fechaIngresoJubilacion": "2010-04-01",
+      "fechaNacimiento": "1981-06-20",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 602.17
+    },
+    {
+      "identificacion": "1102574231",
+      "fechaIngresoJubilacion": "2017-11-13",
+      "fechaNacimiento": "1986-11-01",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 122.84
+    },
+    {
+      "identificacion": "2400167041",
+      "fechaIngresoJubilacion": "2020-04-14",
+      "fechaNacimiento": "1998-10-30",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "1715839229",
+      "fechaIngresoJubilacion": "2020-07-06",
+      "fechaNacimiento": "1985-02-15",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 759.69
+    },
+    {
+      "identificacion": "0701981185",
+      "fechaIngresoJubilacion": "2015-02-01",
+      "fechaNacimiento": "1966-01-07",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 198.4
+    },
+    {
+      "identificacion": "0911802932",
+      "fechaIngresoJubilacion": "2014-02-01",
+      "fechaNacimiento": "1968-08-18",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 2000
+    },
+    {
+      "identificacion": "0706359049",
+      "fechaIngresoJubilacion": "2020-07-01",
+      "fechaNacimiento": "1992-08-13",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 224.64
+    },
+    {
+      "identificacion": "0702845454",
+      "fechaIngresoJubilacion": "2021-12-14",
+      "fechaNacimiento": "1971-01-14",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 23.16
+    },
+    {
+      "identificacion": "0925393316",
+      "fechaIngresoJubilacion": "2021-11-15",
+      "fechaNacimiento": "1985-03-04",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 175
+    },
+    {
+      "identificacion": "0705986172",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "2001-06-23",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 141.46
+    },
+    {
+      "identificacion": "0701419988",
+      "fechaIngresoJubilacion": "2013-06-01",
+      "fechaNacimiento": "1960-09-04",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 518.53
+    },
+    {
+      "identificacion": "0704670900",
+      "fechaIngresoJubilacion": "2017-03-20",
+      "fechaNacimiento": "1985-04-06",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 853.5
+    },
+    {
+      "identificacion": "0703159616",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1975-10-06",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 348.74
+    },
+    {
+      "identificacion": "0919500876",
+      "fechaIngresoJubilacion": "2021-02-15",
+      "fechaNacimiento": "1978-06-21",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 826.17
+    },
+    {
+      "identificacion": "0705300671",
+      "fechaIngresoJubilacion": "2015-05-26",
+      "fechaNacimiento": "1990-11-06",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 305.6
+    },
+    {
+      "identificacion": "0700984222",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1953-08-30",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 178.25
+    },
+    {
+      "identificacion": "0926689498",
+      "fechaIngresoJubilacion": "2020-05-25",
+      "fechaNacimiento": "1986-11-14",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 593.37
+    },
+    {
+      "identificacion": "1309912457",
+      "fechaIngresoJubilacion": "2013-01-07",
+      "fechaNacimiento": "1979-01-07",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 529.03
+    },
+    {
+      "identificacion": "0919530378",
+      "fechaIngresoJubilacion": "2019-04-24",
+      "fechaNacimiento": "1989-11-09",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 566.74
+    },
+    {
+      "identificacion": "0700968167",
+      "fechaIngresoJubilacion": "2015-08-01",
+      "fechaNacimiento": "1955-12-10",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 528.53
+    },
+    {
+      "identificacion": "0705009603",
+      "fechaIngresoJubilacion": "2014-03-01",
+      "fechaNacimiento": "1982-08-25",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 747.27
+    },
+    {
+      "identificacion": "2400165367",
+      "fechaIngresoJubilacion": "2020-10-01",
+      "fechaNacimiento": "2000-07-06",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 180
+    },
+    {
+      "identificacion": "0705278802",
+      "fechaIngresoJubilacion": "2015-05-08",
+      "fechaNacimiento": "1996-05-01",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 735.91
+    },
+    {
+      "identificacion": "2100031281",
+      "fechaIngresoJubilacion": "2007-07-01",
+      "fechaNacimiento": "1973-09-03",
+      "tipo": 3,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 1800
+    },
+    {
+      "identificacion": "0702122060",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1966-03-19",
+      "tipo": 3,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 178.56
+    },
+    {
+      "identificacion": "0702260399",
+      "fechaIngresoJubilacion": "2012-08-01",
+      "fechaNacimiento": "1972-03-23",
+      "tipo": 3,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 198.4
+    },
+    {
+      "identificacion": "0704387174",
+      "fechaIngresoJubilacion": "2020-04-01",
+      "fechaNacimiento": "1996-08-12",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 573.07
+    },
+    {
+      "identificacion": "0705206043",
+      "fechaIngresoJubilacion": "2019-04-23",
+      "fechaNacimiento": "1986-04-16",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 574.85
+    },
+    {
+      "identificacion": "0702540105",
+      "fechaIngresoJubilacion": "2009-01-16",
+      "fechaNacimiento": "1970-09-10",
+      "tipo": 3,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 1145.83
+    },
+    {
+      "identificacion": "0702038266",
+      "fechaIngresoJubilacion": "2015-04-23",
+      "fechaNacimiento": "1963-03-04",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 425
+    },
+    {
+      "identificacion": "0705703080",
+      "fechaIngresoJubilacion": "2017-09-01",
+      "fechaNacimiento": "1994-04-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 359.41
+    },
+    {
+      "identificacion": "0750849481",
+      "fechaIngresoJubilacion": "2021-06-01",
+      "fechaNacimiento": "2002-08-21",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 806.13
+    },
+    {
+      "identificacion": "0703211896",
+      "fechaIngresoJubilacion": "2014-03-01",
+      "fechaNacimiento": "1975-09-23",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 288.08
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "numeroProceso": "114614",
+  "parametros": {
+    "fechaValoracion": "2022-12-31",
+    "fechaEstimacion": "2021-12-31"
+  },
+  "empresa": {
+    "estado": "I"
+  },
+  "hipotesiscompanyl": {
+    "decimoCuartoSueldo": 425
+  },
+  "empleados": [
+    {
+      "identificacion": "6105655630",
+      "fechaIngresoJubilacion": "2022-09-01",
+      "fechaNacimiento": "1997-12-30",
+      "tipo": 4,
+      "sexo": "F",
+      "remuneracionPromedioJubilacion": 800
+    },
+    {
+      "identificacion": "1711413946",
+      "fechaIngresoJubilacion": "2022-11-07",
+      "fechaNacimiento": "1971-01-28",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 435.49
+    },
+    {
+      "identificacion": "1717838971",
+      "fechaIngresoJubilacion": "2022-12-15",
+      "fechaNacimiento": "1989-04-12",
+      "tipo": 4,
+      "sexo": "M",
+      "remuneracionPromedioJubilacion": 600
+    }
+  ]
+}
